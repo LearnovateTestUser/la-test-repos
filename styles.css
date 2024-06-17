@@ -9,6 +9,17 @@ h1 {
     margin: .5rem 1rem;
 }
 
+.contents {
+    padding: .5rem 1rem;
+    border: 1px solid;
+}
+
+.contents p {
+    font-size: 1em;
+    font-weight: 500;
+    margin: 0 1rem 1rem;
+}
+
 footer {
     font-size: 1.5em;
     font-weight: 600;
